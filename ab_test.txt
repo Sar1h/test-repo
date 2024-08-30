@@ -1,6 +1,4 @@
-hey this is my practice repo push-pull , please bare with it !
-
-new line just to test !git.
+Its final and I am done.
 
 
 dont wait here move ahead.
